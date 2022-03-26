@@ -6,3 +6,4 @@ def msg():
     user_msg = input("• Dear user, type a message: ")
     return(user_msg)
     
+    
